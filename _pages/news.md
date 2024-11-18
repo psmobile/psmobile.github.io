@@ -1,3 +1,5 @@
+🔥 2024.04.04 The paper [**Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234) is available
+
 🔥 2024.04.04 The paper [**Towards Explainable End-to-End Driving Models via Simplified Objectification Constraints**](https://ieeexplore.ieee.org/document/10505932) is accepted by **IEEE Transactions on Intelligent Transportation Systems**
 
 🔥 2024.03.14 The paper [**Frozen is Better than Learning: A New Design of Prototype-based Classifier for Semantic Segmentation**](https://doi.org/10.1016/j.patcog.2024.110431) is accepted by **Pattern Recognition**
