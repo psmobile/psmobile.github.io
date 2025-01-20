@@ -6,3 +6,4 @@ Here are some of the selections from my [Google Scholar](https://scholar.google.
 
 Chenkai Zhang, Daisuke Deguchi, <u>Jialei Chen</u>, Hiroshi Murase, [Towards Explainable End-to-End Driving Models via Simplified Objectification Constraints](https://ieeexplore.ieee.org/document/10505932) is accepted by **IEEE Transactions on Intelligent Transportation Systems**
 
+Zhenzhen Quan <u>Jialei Chen</u>, Daisuke Deguchi, Jie Sun, Chenkai Zhang, Yujun Li, Hiroshi Murase, [Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition.]([https://doi.org/10.1016/j.patcog.2024.110431](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234), **Pattern Recognition** 
