@@ -12,7 +12,7 @@ I’m a second-year Ph.D. student supervised by [Daisuke Deguchi](https://schola
 
 Prior to Nagoya University, I obtained my B.ENG and M.ENG in Information and Communication Engineering from Northeastern University (NEU), where I focused on medical image analysis.
 
-Lately, I’ve been focusing on Zero-shot and Open-Vocabulary Vision tasks based on Vision-Language models and My CV can be obtained [here]().
+Lately, I’ve been focusing on Zero-shot and Open-Vocabulary Vision tasks based on Vision-Language models and My CV can be obtained [here](https://github.com/psmobile/psmobile.github.io/blob/master/Jialei%20Chen%20CV.pdf).
 
 
 📰 News
