@@ -1,3 +1,5 @@
+🔥 2025.05.05 [**Split Matching for Inductive Zero-shot Semantic Segmentation.**](https://arxiv.org/pdf/2505.05023)) is available
+
 🔥 2025.01.19 Zhenzhen Quan <u>Jialei Chen</u>, Daisuke Deguchi, Jie Sun, Chenkai Zhang, Yujun Li, Hiroshi Murase, [**Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234) is accepted by **Pattern Recognition** 
 
 🔥 2024.11.18 The paper [**Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234) is available
