@@ -1,5 +1,8 @@
-🔥 2025.06.03 [**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation.**](https://arxiv.org/abs/2506.03675) is available
+🔥 2025.06.30 [**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation.**](https://arxiv.org/abs/2506.22032) is available
 
+🔥 2025.06.25 1 paper [**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**] is accepted by ICCV 25
+
+🔥 2025.06.03 [**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation.**](https://arxiv.org/abs/2506.03675) is available
 
 🔥 2025.05.05 [**Split Matching for Inductive Zero-shot Semantic Segmentation.**](https://arxiv.org/pdf/2505.05023) is available
 
