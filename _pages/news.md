@@ -1,3 +1,5 @@
+🔥 2025.07.02 Two papers are accepted by ITSC 2025
+
 🔥 2025.06.30 [**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation.**](https://arxiv.org/abs/2506.22032) is available
 
 🔥 2025.06.25 1 paper [**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**] is accepted by ICCV 25
