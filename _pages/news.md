@@ -1,4 +1,6 @@
-🔥 2025.07.26 [**Split Matching for Inductive Zero-shot Semantic Segmentation.**](https://arxiv.org/pdf/2505.05023) is accepted by BMVC25. Waiting for camerady version
+🔥 2025.09.29 [**CLIP-to-Seg Distillation for Zero-shot Semantic Segmentation.**] is accepted by TCSVT25. 
+
+🔥 2025.07.26 [**Split Matching for Inductive Zero-shot Semantic Segmentation.**](https://arxiv.org/pdf/2505.05023) is accepted by BMVC25. 
 
 🔥 2025.07.02 Two papers are accepted by ITSC 2025
 
