@@ -1,6 +1,6 @@
 Here are some of the selections from my [Google Scholar](https://scholar.google.com.hk/citations?user=xV3gdyAAAAAJ&hl=zh-CN)
 
-<u>Jialei Chen</u>, Zhenzhen Quan, Chenkai Zhang, Xu Zheng, Daisuke Deguchi, Hiroshi Murase [CLIP-to-Seg Distillation for Zero-shot Semantic Segmentation] **IEEE Transactions on Circuits and Systems for Video Technology** 
+<u>Jialei Chen</u>, Zhenzhen Quan, Chenkai Zhang, Xu Zheng, Daisuke Deguchi, Hiroshi Murase [CLIP-to-Seg Distillation for Zero-shot Semantic Segmentation](https://doi.org/10.1109/TCSVT.2025.3616588) **IEEE Transactions on Circuits and Systems for Video Technology** 
 
 <u>Jialei Chen</u>, Chong Fu, Haoyu Xie, Xu Zheng, Chiu-Wing Sham, [Uncertainty teacher with dense focal loss for semi-supervised medical image segmentation.](https://www.sciencedirect.com/science/article/pii/S001048252200751X), **Computers in Biology and Medicine** 
 
