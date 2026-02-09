@@ -1,4 +1,4 @@
-🔥 2026.02.09 [**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation.**](https://arxiv.org/abs/2506.03675) is accepted by **TMM**.
+🔥 2026.02.09 [**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation.**](https://arxiv.org/abs/2506.03675) is accepted by **TMM**26.
 
 🔥 2025.10.14 [**Semantic-Centric Alignment for Zero-shot Panoptic Segmentation with Limited Data.**]() is accepted by **IJCV**25. 
 
