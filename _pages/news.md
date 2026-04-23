@@ -1,3 +1,9 @@
+🔥 2026.04.01 [**Resolving the Inherent Contextual Insufficiency in Referring Image Segmentation with Global Semantic Priors.**] is accepted by **ICPR**26. Camera-ready is coming soon.
+
+🔥 2026.03.03 [**Training-Free Open-Vocabulary Semantic Segmentation with Context Pyramid Refinement.**] is accepted by **IJCV**26. Camera-ready is coming soon.
+
+🔥 2026.03.14 [**MLLMs are Deeply Affected by Modality Bias.**](https://arxiv.org/abs/2505.18657) is accepted by **ICLR**26. Camera-ready is coming soon.
+
 🔥 2026.02.09 [**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation.**](https://arxiv.org/abs/2506.03675) is accepted by **TMM**26.
 
 🔥 2025.10.14 [**Semantic-Centric Alignment for Zero-shot Panoptic Segmentation with Limited Data.**]() is accepted by **IJCV**25. 
