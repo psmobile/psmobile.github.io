@@ -16,7 +16,7 @@
 
 🔥 2025.06.30 [**Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation**](https://arxiv.org/abs/2506.22032) is available
 
-🔥 2025.06.25 1 paper [**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**] is accepted by **ICCV**25 (Highlighted)
+🔥 2025.06.25 1 paper [**OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation**](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf) is accepted by **ICCV**25 (Highlighted)
 
 🔥 2025.01.19 Zhenzhen Quan <u>Jialei Chen</u>, Daisuke Deguchi, Jie Sun, Chenkai Zhang, Yujun Li, Hiroshi Murase, [**Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234) is accepted by **Pattern Recognition** 
 
