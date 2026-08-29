@@ -1,4 +1,4 @@
-🔥 2026.04.01 Resolving the Inherent Contextual Insufficiency in Referring Image Segmentation with Global Semantic Priors is accepted by **ICPR**26. Camera-ready is coming soon.
+🔥 2026.04.01 [Resolving the Inherent Contextual Insufficiency in Referring Image Segmentation with Global Semantic Priors](https://link.springer.com/chapter/10.1007/978-3-032-31673-8_41) is accepted by **ICPR**26.
 
 🔥 2026.03.03 [**Training-Free Open-Vocabulary Semantic Segmentation with Context Pyramid Refinement**](https://link.springer.com/article/10.1007/s11263-026-02813-3) is accepted by **IJCV**26.
 
