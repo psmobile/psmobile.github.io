@@ -19,10 +19,6 @@ Lately, I’ve been focusing on Zero-shot and Open-Vocabulary Vision tasks based
 ======
   {% include_relative news.md %}
 
-📖 Publications
-======
-  {% include_relative publication.md %}
-
 🎓 Education
 ======
   {% include_relative education.md %}
