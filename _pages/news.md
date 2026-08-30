@@ -31,8 +31,6 @@
 
 *International Conference on Learning Representations (**ICLR 2026**)*
 
-Camera-ready is coming soon.
-
 </td>
 </tr>
 </table>
