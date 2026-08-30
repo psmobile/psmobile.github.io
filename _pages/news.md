@@ -4,7 +4,7 @@
 🔥 2026.03.03 [**Training-Free Open-Vocabulary Semantic Segmentation with Context Pyramid Refinement**](https://link.springer.com/article/10.1007/s11263-026-02813-3) is accepted by **IJCV**26.
 
 <p align="center">
-  <img src="paper_images/free.png" width="600">
+  <img src="../paper_images/free.png" width="600">
 </p>
 
 🔥 2026.03.14 [**MLLMs are Deeply Affected by Modality Bias**](https://arxiv.org/abs/2505.18657) is accepted by **ICLR**26. Camera-ready is coming soon.
