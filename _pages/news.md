@@ -56,7 +56,7 @@
 🔥 2025.01.19 Zhenzhen Quan <u>Jialei Chen</u>, Daisuke Deguchi, Jie Sun, Chenkai Zhang, Yujun Li, Hiroshi Murase, [**Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234) is accepted by **Pattern Recognition** 
 
 <p align="center">
-  <img src="../paper_images/matter.png" width="600">
+  <img src="../paper_images/matters.png" width="600">
 </p>
 
 🔥 2024.04.04 The paper [**Towards Explainable End-to-End Driving Models via Simplified Objectification Constraints**](https://ieeexplore.ieee.org/document/10505932) is accepted by **IEEE Transactions on Intelligent Transportation Systems**
