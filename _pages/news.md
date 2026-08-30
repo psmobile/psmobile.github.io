@@ -2,7 +2,7 @@
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td width="48%" valign="middle">
-      <img src="../paper_images/icpr26.png" width="100%">
+      <img src="../paper_images/icpr.png" width="100%">
     </td>
     <td width="52%" valign="middle">
       <h2>
