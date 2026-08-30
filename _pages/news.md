@@ -6,7 +6,7 @@
 
 🔥 2026.02.09 [**BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11563662) is accepted by **TMM**26.
 
-🔥 2025.10.14 [**Semantic-Centric Alignment for Zero-shot Panoptic Segmentation with Limited Data**]() is accepted by **IJCV**25. 
+🔥 2025.10.14 [**Semantic-Centric Alignment for Zero-shot Panoptic Segmentation with Limited Data**](https://link.springer.com/article/10.1007/s11263-025-02648-4) is accepted by **IJCV**25. 
 
 🔥 2025.09.29 [**CLIP-to-Seg Distillation for Zero-shot Semantic Segmentation**](https://doi.org/10.1109/TCSVT.2025.3616588) is accepted by **TCSVT**25. 
 
