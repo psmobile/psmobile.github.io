@@ -1,10 +1,10 @@
 <!-- ICPR 2026 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/icpr26.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://link.springer.com/chapter/10.1007/978-3-032-31673-8_41">
           Resolving the Inherent Contextual Insufficiency in Referring Image Segmentation with Global Semantic Priors
@@ -16,15 +16,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- ICLR 2026 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/bias.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://arxiv.org/abs/2505.18657">
           MLLMs are Deeply Affected by Modality Bias
@@ -37,15 +35,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- IJCV 2026 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/free.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://link.springer.com/article/10.1007/s11263-026-02813-3">
           Training-Free Open-Vocabulary Semantic Segmentation with Context Pyramid Refinement
@@ -57,15 +53,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- TMM 2026 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/bixformer.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11563662">
           BiXFormer: A Robust Framework for Maximizing Modality Effectiveness in Multi-Modal Semantic Segmentation
@@ -77,15 +71,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- IJCV 2025 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/semantic-centric.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://link.springer.com/article/10.1007/s11263-025-02648-4">
           Semantic-Centric Alignment for Zero-shot Panoptic Segmentation with Limited Data
@@ -97,15 +89,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- TCSVT 2025 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/clip2seg.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://doi.org/10.1109/TCSVT.2025.3616588">
           CLIP-to-Seg Distillation for Zero-shot Semantic Segmentation
@@ -117,15 +107,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- BMVC 2025 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/split.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://arxiv.org/pdf/2505.05023">
           Split Matching for Inductive Zero-shot Semantic Segmentation
@@ -137,10 +125,8 @@
   </tr>
 </table>
 
-<br>
-
 <!-- ITSC 2025 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td width="100%" valign="middle">
       <h2>Two papers accepted by ITSC 2025</h2>
@@ -150,15 +136,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- Chimera-Seg -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/partial.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://arxiv.org/abs/2506.22032">
           Partial CLIP is Enough: Chimera-Seg for Zero-shot Semantic Segmentation
@@ -170,15 +154,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- ICCV 2025 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/sam.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_OmniSAM_Omnidirectional_Segment_Anything_Model_for_UDA_in_Panoramic_Semantic_ICCV_2025_paper.pdf">
           OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation
@@ -191,15 +173,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- Pattern Recognition 2025 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/matters.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5017234">
           Semantic Matters: A Semantic Constrained Approach for Zero-Shot Video Action Recognition
@@ -220,10 +200,8 @@
   </tr>
 </table>
 
-<br>
-
 <!-- T-ITS 2024 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td width="100%" valign="middle">
       <h2>
@@ -237,15 +215,13 @@
   </tr>
 </table>
 
-<br>
-
 <!-- Pattern Recognition 2024 -->
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="40%" valign="middle">
+    <td width="48%" valign="middle">
       <img src="../paper_images/frozen.png" width="100%">
     </td>
-    <td width="60%" valign="middle">
+    <td width="52%" valign="middle">
       <h2>
         <a href="https://doi.org/10.1016/j.patcog.2024.110431">
           Frozen is Better than Learning: A New Design of Prototype-based Classifier for Semantic Segmentation
